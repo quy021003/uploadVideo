@@ -1,0 +1,15 @@
+/* Custom styling for video management */
+.container {
+    max-width: 800px;
+}
+
+.video-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.video-item video {
+    max-width: 200px;
+    margin-right: 20px;
+}
